@@ -1,2 +1,2 @@
 # About
-About me
+My name is Uroš Hrastar. I'm studying Computer and information science.
